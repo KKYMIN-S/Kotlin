@@ -1,0 +1,16 @@
+mean NOUN average norm median middle
+mean ADJ nasty poor miserly
+mean VERB denote intend
+offer NOUN proposal
+offer VERB propose present
+compromise NOUN bargaining
+compromise VERB settle concilliate
+delegate NOUN representative agent substitute
+delegate VERB authorize appoint designate
+foster VERB nuture raise promote advance
+forst ADJ substitute adoptive standin
+imperative ADJ authoritative vital
+imperative NOUN necessity essential requirement
+accomplish VERB achieve complete finish realize undertake
+aptitute NOUN ability skill talent capacity fitness
+certificate diploma credential record license
