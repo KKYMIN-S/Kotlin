@@ -1,7 +1,0 @@
-6
-clock 175 10
-painting 90 9
-radio 20 4
-vase 50 2
-book 10 1
-computer 200 20
